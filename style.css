@@ -7,7 +7,7 @@
 }
 
 header {
-     margin: 44px 0 144px 76px;
+     margin: 44px 0 144px 75px;
      font-size: 24px;
      font-weight: 600;
      line-height: 29.26px;
@@ -102,3 +102,5 @@ p {
 
 
 }
+
+@media screen and (max-width: 500px) {}

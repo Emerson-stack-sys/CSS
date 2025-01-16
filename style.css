@@ -7,7 +7,7 @@
 }
 
 header {
-     margin: 44px 0 144px 76px;
+     margin: 44px 0 144px 75px;
      font-size: 24px;
      font-weight: 600;
      line-height: 29.26px;
@@ -103,6 +103,7 @@ p {
 
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 700px) {
 
      header {
@@ -173,3 +174,6 @@ p {
      }
 
 }
+=======
+@media screen and (max-width: 500px) {}
+>>>>>>> e8438a56637ebacc462428bbc39236890e78273b

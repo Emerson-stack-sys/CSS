@@ -103,7 +103,6 @@ p {
 
 }
 
-<<<<<<< HEAD
 @media screen and (max-width: 700px) {
 
      header {
@@ -174,6 +173,7 @@ p {
      }
 
 }
-=======
-@media screen and (max-width: 500px) {}
->>>>>>> e8438a56637ebacc462428bbc39236890e78273b
+
+=======@media screen and (max-width: 500px) {}
+
+>>>>>>>e8438a56637ebacc462428bbc39236890e78273b
